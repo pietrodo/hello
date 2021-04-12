@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pietrodo!
+- 🌱 I'm learning Python.
+- 📫 You can contect me to doxpt@gmail.com .
